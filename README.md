@@ -1,2 +1,5 @@
 # Yc
-console.yaz("hello"):true/true&lt;true;
+console.yaz("hello"):
+{
+   <true>&lt;
+}
